@@ -2,11 +2,12 @@
 
 <p align="center">
   <b>I build practical AI applications that keep your data where it belongs.</b><br/>
-  Retrieval-augmented generation · Local LLMs · Tested, documented, production-minded code
+  Retrieval-augmented generation · Multi-agent systems · Local LLMs · Tested, documented, production-minded code
 </p>
 
 <p align="center">
   <a href="https://github.com/maheshkarthik/local-rag-document-assistant"><img src="https://img.shields.io/badge/Featured-Local_RAG_Document_Assistant-0A66C2?style=flat-square" alt="Featured project"/></a>
+  <a href="https://github.com/maheshkarthik/multi-agent-research-assistant"><img src="https://img.shields.io/badge/New-Multi--Agent_Research_Assistant-2E7D32?style=flat-square" alt="New project"/></a>
 </p>
 
 ---
@@ -48,6 +49,7 @@ Chat with your PDFs, fully offline. Upload documents, ask questions in plain Eng
 | # | Project | What it explores | Status |
 |---|---|---|---|
 | 01 | [Local RAG Document Assistant](https://github.com/maheshkarthik/local-rag-document-assistant) | Chunking, hybrid retrieval, grounded generation, citation verification | ✅ Shipped |
+| 02 | [Multi-Agent Research Assistant](https://github.com/maheshkarthik/multi-agent-research-assistant) | A planner, researchers, a reviewer and a writer that research the web and your PDFs and write cited reports; agent orchestration in plain Python, evaluated on six fixed questions | ✅ Shipped |
 
 More projects are in progress. Each will ship with a runnable demo, sample data and tests.
 
@@ -55,7 +57,7 @@ More projects are in progress. Each will ship with a runnable demo, sample data 
 
 ## Toolbox
 
-**AI and data:** retrieval-augmented generation, embeddings and vector search, BM25, local LLMs (Ollama), prompt design<br/>
+**AI and data:** retrieval-augmented generation, embeddings and vector search, BM25, local LLMs (Ollama), multi-agent orchestration, structured JSON output, LLM evaluation, prompt design<br/>
 **Languages and frameworks:** Python, Streamlit<br/>
 **Data stores:** ChromaDB<br/>
 **Engineering practice:** unit and UI testing, clear documentation, reproducible setups

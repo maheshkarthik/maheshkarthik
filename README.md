@@ -7,9 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/maheshkarthik/local-rag-document-assistant"><img src="https://img.shields.io/badge/Featured-Local_RAG_Document_Assistant-0A66C2?style=flat-square" alt="Featured project"/></a>
-  <!-- LINKEDIN: replace YOUR-LINKEDIN-ID and remove the comment markers to show the badge
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  -->
 </p>
 
 ---
@@ -60,7 +57,3 @@ More projects are in progress. Each will ship with a runnable demo, sample data 
 **Languages and frameworks:** Python, Streamlit<br/>
 **Data stores:** ChromaDB<br/>
 **Engineering practice:** unit and UI testing, clear documentation, reproducible setups
-
----
-
-<p align="center"><i>Open to conversations about AI engineering roles and collaborations.</i></p>

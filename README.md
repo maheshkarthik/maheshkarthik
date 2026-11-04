@@ -29,6 +29,8 @@ My focus is on AI that people can **trust**:
 
 Chat with your PDFs, fully offline. Upload documents, ask questions in plain English, and get answers that cite the exact file and page.
 
+<a href="https://github.com/maheshkarthik/local-rag-document-assistant"><img src="https://raw.githubusercontent.com/maheshkarthik/local-rag-document-assistant/main/docs/screenshot.png" alt="Local RAG Document Assistant answering a question with cited sources"/></a>
+
 | Capability | How it works |
 |---|---|
 | **Hybrid search** | Semantic embeddings and BM25 keyword search merged with Reciprocal Rank Fusion, so it finds paraphrases *and* exact IDs, codes and numbers |
